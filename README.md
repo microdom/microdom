@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://microdom.dev/og-image.svg" width="90%" alt="MicroDOM">
+  <img src="https://microdom.dev/og-image.svg?v=33" width="90%" alt="MicroDOM">
 </p>
 <p align="center">
   Build fast interfaces with plain HTML, CSS and JavaScript.<br>
