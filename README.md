@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://microdom.dev/og-image.svg" width="550" alt="MicroDOM">
+  <img src="https://microdom.dev/og-image.svg" width="80%" alt="MicroDOM">
 </p>
-
-<h1 align="center">MicroDOM</h1>
-
 <p align="center">
   Build fast interfaces with plain HTML, CSS and JavaScript.<br>
   No build step. No dependency chain. No class soup.<br>
