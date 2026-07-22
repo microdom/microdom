@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://microdom.dev/og-image.svg" width="120" alt="MicroDOM">
+  <img src="https://microdom.dev/og-image.svg" width="550" alt="MicroDOM">
 </p>
 
 <h1 align="center">MicroDOM</h1>
